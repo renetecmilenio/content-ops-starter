@@ -33,5 +33,16 @@
         "prettier": "^3.3.2",
         "typescript": "^5.6.2"
     },
-    "main": "next.config.js"
+    "main": "next.config.js",
+    "description": "![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/renetecmilenio/content-ops-starter.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/renetecmilenio/content-ops-starter/issues"
+    },
+    "homepage": "https://github.com/renetecmilenio/content-ops-starter#readme"
 }
